@@ -14,12 +14,23 @@ Projeto | Nota | Link
  
 #### LP - Lógica para Programação
 
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 14.9 | (link)
+
 ### 2º Semestre
 
 #### IAC - Introdução à Arquitetura de Computadores
 
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 6.28 (até 8) | (link)
+
 #### IAED - Introdução aos Algoritmos e Estruturas de Dados
 
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 15.0151 | (link)
 
 ## 2º ANO
 
@@ -27,19 +38,50 @@ Projeto | Nota | Link
 
 #### ASA - Análise e Síntese de Algoritmos
 
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 19.75 | (link)
+ P2 | 19.75 | (link)
+ P3 | 17.35 | (link)
+
 #### PO - Programação com Objectos
 
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 16.52 | (link)
+
 #### SO - Sistemas Operativos
+
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 13.72 | (link)
 
 ### 2º Semestre
 
 #### BD - Bases de Dados
 
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 18.4 | (link)
+
 #### IA - Inteligência Artificial
+
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 15.25 | (link)
 
 #### IPM - Interacção Pessoa-Máquina
 
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 17 | (link)
+ P2 | 20 | (link)
+
 #### PE - Probabilidade e Estatística
+
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 20 | (link)
 
 
 

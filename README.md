@@ -7,6 +7,11 @@ Notas e Repositórios de todos os projetos das cadeiras da Licenciatura em Engen
 
 #### FP - Fundamentos da Programação
 
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 18.75 | (link)
+ P2 | 16.61 | (link)
+ 
 #### LP - Lógica para Programação
 
 ### 2º Semestre

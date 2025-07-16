@@ -74,8 +74,8 @@ Projeto | Nota | Link
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 17 | (link)
- P2 | 20 | (link)
+ P1 | 17 | *NA*
+ P2 | 20 | https://github.com/DuarteCruz6/ProjetoIPM
 
 #### PE - Probabilidade e Estatística
 

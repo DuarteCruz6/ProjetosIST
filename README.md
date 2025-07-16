@@ -10,13 +10,13 @@ Notas e Repositórios de todos os projetos das cadeiras da Licenciatura em Engen
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 18.75 | https://github.com/DuarteCruz6/Projeto1FP
- P2 | 16.61 | (link)
+ P2 | 16.61 | https://github.com/DuarteCruz6/Projeto2FP
  
 #### LP - Lógica para Programação
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 14.9 | (link)
+ P1 | 14.9 | https://github.com/DuarteCruz6/PrologProject
 
 ### 2º Semestre
 
@@ -30,7 +30,7 @@ Projeto | Nota | Link
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 15.0151 | (link)
+ P1 | 15.0151 | https://github.com/DuarteCruz6/IAEDProject
 
 ## 2º ANO
 
@@ -40,21 +40,21 @@ Projeto | Nota | Link
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 19.75 | (link)
- P2 | 19.75 | (link)
- P3 | 17.35 | (link)
+ P1 | 19.75 | https://github.com/DuarteCruz6/projetoASA
+ P2 | 19.75 | https://github.com/DuarteCruz6/projeto2ASA
+ P3 | 17.35 | https://github.com/DuarteCruz6/projeto3ASA
 
 #### PO - Programação com Objectos
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 16.52 | (link)
+ P1 | 16.52 | https://github.com/DuarteCruz6/projetoPO
 
 #### SO - Sistemas Operativos
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 13.72 | (link)
+ P1 | 13.72 | https://github.com/DuarteCruz6/projetoSO
 
 ### 2º Semestre
 
@@ -62,13 +62,13 @@ Projeto | Nota | Link
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 18.4 | (link)
+ P1 | 18.4 | https://github.com/DuarteCruz6/projetoBD
 
 #### IA - Inteligência Artificial
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 15.25 | (link)
+ P1 | 15.25 | https://github.com/DuarteCruz6/projetoIA
 
 #### IPM - Interacção Pessoa-Máquina
 
@@ -81,7 +81,7 @@ Projeto | Nota | Link
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 20 | (link)
+ P1 | 20 | https://github.com/DuarteCruz6/projetoPE
 
 
 

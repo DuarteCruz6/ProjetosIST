@@ -24,7 +24,7 @@ Projeto | Nota | Link
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 6.28 (até 8) | (link)
+ P1 | 6.28 (até 8) | https://github.com/DuarteCruz6/projetoIAC
 
 #### IAED - Introdução aos Algoritmos e Estruturas de Dados
 

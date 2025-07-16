@@ -9,7 +9,7 @@ Notas e Repositórios de todos os projetos das cadeiras da Licenciatura em Engen
 
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 | 18.75 | (link)
+ P1 | 18.75 | https://github.com/DuarteCruz6/Projeto1FP
  P2 | 16.61 | (link)
  
 #### LP - Lógica para Programação

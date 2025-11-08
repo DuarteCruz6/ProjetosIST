@@ -93,21 +93,29 @@ Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 15.25 | https://github.com/DuarteCruz6/projetoIA
 
-
 ## 3º ANO 2025/26 [Em Atualização]
 
 ### 1º Semestre
 
-#### AMS - Análise e Modelação de Sistemas
-
-#### Aprendizagem
-
-#### HACS
-
 #### OC - Organização de Computadores
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 95/100 | https://github.com/DuarteCruz6/projOC/tree/main/proj1
+ P2 | 100/100| https://github.com/DuarteCruz6/projOC/tree/main/proj2
+ P3 | 100/100| https://github.com/DuarteCruz6/projOC/tree/main/proj3
+ All projects| 20/20 | https://github.com/DuarteCruz6/projOC
+
+#### Apre - Aprendizagem
+
+#### AMS - Análise e Modelação de Sistemas
 
 #### RC - Redes de Computadores
 
+#### HACS
+
+##### APSEI - Tecnologia e Sociedade
+
+##### IEco - Introdução à Economia
 
 ### 2º Semestre
 

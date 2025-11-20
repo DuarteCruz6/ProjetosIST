@@ -1,7 +1,9 @@
-# Projetos de LEIC-A/T no IST
-Notas e Repositórios de todos os projetos das cadeiras da Licenciatura em Engenharia Informática e de Computadores (LEIC) no Instituto Superior Técnico (IST).
+# Projetos de LEIC-T no IST
+Notas e Repositórios de todos os projetos das cadeiras da Licenciatura em Engenharia Informática e de Computadores Taguspark (LEIC-T) no Instituto Superior Técnico (IST).
 
 Estes projetos podem ser individuais ou em grupo. As submissões listadas abaixo estão organizadas por ano, semestre e período (P1 até P4). Cadeiras sem projetos não estão listadas abaixo.
+
+Estes projetos foram realizados ao longo da licenciatura no Campus Taguspark. Em princípio, não existem diferenças em relação a projetos da mesma cadeira e do mesmo ano letivo lecionados na Alameda, embora pequenas variações possam ocorrer dependendo da unidade curricular.
 
 As notas obtidas também estão incluídas abaixo. Nalguns projetos, pode-se encontrar uma descrição mais detalhada acerca das notas dos projetos (exemplo: notas dos testes práticos, notas dos relatórios, etc), tal como algum feedback recebido por parte do professor acerca do projeto e da sua respetiva nota.
 

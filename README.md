@@ -108,6 +108,14 @@ Projeto | Nota | Link
  All projects| 20/20 | https://github.com/DuarteCruz6/projOC
 
 #### Apre - Aprendizagem
+Homework | Nota | Link
+ :---: | :---: | :---:
+ HW1 | 10/10 | https://github.com/DuarteCruz6/homeworksML/tree/main/homework1
+ HW2 | 10/10| https://github.com/DuarteCruz6/homeworksML/tree/main/homework2
+ HW3 | 10/10| https://github.com/DuarteCruz6/homeworksML/tree/main/homework3
+ HW4 | 10/10| https://github.com/DuarteCruz6/homeworksML/tree/main/homework4
+ All homeworks| 10/10 | https://github.com/DuarteCruz6/homeworksML
+ [Bonus] Challenge | *NA* | https://github.com/DuarteCruz6/MLChallenge-2526
 
 #### AMS - Análise e Modelação de Sistemas
 

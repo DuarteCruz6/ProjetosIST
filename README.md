@@ -126,6 +126,9 @@ Homework | Nota | Link
 ##### APSEI - Tecnologia e Sociedade
 
 ##### IEco - Introdução à Economia
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 e P2 | 18 | https://github.com/DuarteCruz6/projIE
 
 ### 2º Semestre
 

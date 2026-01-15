@@ -18,14 +18,12 @@ Caso haja alguma dúvida acerca do código, ou falte algum detalhe importante no
 ### 1º Semestre
 
 #### FP - Fundamentos da Programação
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 18.75 | https://github.com/DuarteCruz6/Projeto1FP
  P2 | 16.61 | https://github.com/DuarteCruz6/Projeto2FP
  
 #### LP - Lógica para Programação
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 14.9 | https://github.com/DuarteCruz6/PrologProject
@@ -33,13 +31,11 @@ Projeto | Nota | Link
 ### 2º Semestre
 
 #### IAED - Introdução aos Algoritmos e Estruturas de Dados
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 15.0151 | https://github.com/DuarteCruz6/IAEDProject
 
 #### IAC - Introdução à Arquitetura de Computadores
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 6.28 (até 8) | https://github.com/DuarteCruz6/projetoIAC
@@ -49,13 +45,11 @@ Projeto | Nota | Link
 ### 1º Semestre
 
 #### PO - Programação com Objectos
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 16.52 | https://github.com/DuarteCruz6/projetoPO
 
 #### ASA - Análise e Síntese de Algoritmos
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 19.75 | https://github.com/DuarteCruz6/projetoASA
@@ -63,7 +57,6 @@ Projeto | Nota | Link
  P3 | 17.35 | https://github.com/DuarteCruz6/projeto3ASA
 
 #### SO - Sistemas Operativos
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 13.72 | https://github.com/DuarteCruz6/projetoSO
@@ -71,26 +64,22 @@ Projeto | Nota | Link
 ### 2º Semestre
 
 #### PE - Probabilidade e Estatística
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 20 | https://github.com/DuarteCruz6/projetoPE
 
 #### IPM - Interacção Pessoa-Máquina
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 17 | *NA*
  P2 | 20 | https://github.com/DuarteCruz6/ProjetoIPM
 
 #### BD - Bases de Dados
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 18.4 | https://github.com/DuarteCruz6/projetoBD
 
 #### IA - Inteligência Artificial
-
 Projeto | Nota | Link
  :---: | :---: | :---:
  P1 | 15.25 | https://github.com/DuarteCruz6/projetoIA
@@ -118,16 +107,22 @@ Homework | Nota | Link
 #### RC - Redes de Computadores
 Projeto | Nota | Link
  :---: | :---: | :---:
-All labs + All projs | 20 | https://github.com/DuarteCruz6/projRC
+Labs | 20 | https://github.com/DuarteCruz6/projRC/tree/main/labs
+P1 | 100 | https://github.com/DuarteCruz6/projRC/tree/main/projs/proj1
+P2 | 100 | https://github.com/DuarteCruz6/projRC/tree/main/projs/proj2
 
 #### HACS
-
 ##### APSEI - Tecnologia e Sociedade
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ P1 | 18.9 | https://github.com/DuarteCruz6/projAPSEI/tree/main/proj1
+ P2 | 19.1 | https://github.com/DuarteCruz6/projAPSEI/tree/main/proj2
 
 ##### IEco - Introdução à Economia
 Projeto | Nota | Link
  :---: | :---: | :---:
- P1 e P2 | 18 | https://github.com/DuarteCruz6/projIE
+ P1 | 18 | https://github.com/DuarteCruz6/projIE/tree/main/proj1
+ P2 | 18 | https://github.com/DuarteCruz6/projIE/tree/main/proj2
 
 ### 2º Semestre
 

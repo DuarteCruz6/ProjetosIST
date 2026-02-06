@@ -103,6 +103,11 @@ Homework | Nota | Link
  [Bonus] Challenge | *NA* | https://github.com/DuarteCruz6/MLChallenge-2526
 
 #### AMS - Análise e Modelação de Sistemas
+Homework | Nota | Link
+ :---: | :---: | :---:
+ Proj | 17.83/20 | https://github.com/DuarteCruz6/projAMS
+ P1 | 3.4/5 | https://github.com/DuarteCruz6/projAMS/tree/main/proj/part1
+ P2 | 3.889/5 | https://github.com/DuarteCruz6/projAMS/tree/main/proj/part2
 
 #### RC - Redes de Computadores
 Projeto | Nota | Link

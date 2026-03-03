@@ -100,7 +100,7 @@ Projeto | Nota | Link
 Homework | Nota | Link
  :---: | :---: | :---:
  All homeworks| 10/10 | https://github.com/DuarteCruz6/homeworksML
- [Bonus] Challenge | *NA* | https://github.com/DuarteCruz6/MLChallenge-2526
+ [Bonus] Challenge | 2 Lugar | https://github.com/DuarteCruz6/MLChallenge-2526
 
 #### AMS - Análise e Modelação de Sistemas
 Homework | Nota | Link

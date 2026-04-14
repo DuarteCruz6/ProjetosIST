@@ -131,6 +131,14 @@ Projeto | Nota | Link
 
 ### 2º Semestre
 
+#### SD - Sistemas Distribuídos
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ A1 e A2 | 4.55/5 e 2.00/2 | https://github.com/DuarteCruz6/project-SDis/releases/tag/SD_Entrega1
+ B1 e B2 | 4.00/4 e 3.00/3 | https://github.com/DuarteCruz6/project-SDis/releases/tag/SD_Entrega2
+ C1 e C2 | 3.00/3 e 2.70/3 | https://github.com/DuarteCruz6/project-SDis/releases/tag/SD_Entrega3
+ Final | 19.25 | https://github.com/DuarteCruz6/project-SDis
+
 #### Compiladores
 
 #### CG - Computação Gráfica

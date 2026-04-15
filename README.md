@@ -139,6 +139,13 @@ Projeto | Nota | Link
  C1 e C2 | 3.00/3 e 2.70/3 | https://github.com/DuarteCruz6/project-SDis/releases/tag/SD_Entrega3
  Final | 19.25 | https://github.com/DuarteCruz6/project-SDis
 
+#### ES - Engenharia de Software
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ Entrega 1 | 0.92/1 | https://github.com/DuarteCruz6/projectESof/tree/sprint-1
+ Entrega 2 | 0.94/1 | https://github.com/DuarteCruz6/projectESof/tree/sprint-2
+ Final | 18.52 | https://github.com/DuarteCruz6/projectESof
+
 #### Compiladores
 
 #### CG - Computação Gráfica
@@ -146,5 +153,3 @@ Projeto | Nota | Link
 #### ES - Engenharia de Software
 
 #### PIC - Projecto Integrador de 1º Ciclo em Engenharia Informática e de Computadores
-
-#### SD - Sistemas Distribuídos

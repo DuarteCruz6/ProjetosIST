@@ -144,7 +144,7 @@ Projeto | Nota | Link
  :---: | :---: | :---:
  Entrega 1 | 0.92/1 | https://github.com/DuarteCruz6/projectESof/tree/sprint-1
  Entrega 2 | 0.94/1 | https://github.com/DuarteCruz6/projectESof/tree/sprint-2
- Final | 18.52 | https://github.com/DuarteCruz6/projectESof
+ Final | 18.6 | https://github.com/DuarteCruz6/projectESof
 
 #### Compiladores
 

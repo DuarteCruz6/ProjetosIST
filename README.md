@@ -149,7 +149,10 @@ Projeto | Nota | Link
 #### Compiladores
 
 #### CG - Computação Gráfica
-
-#### ES - Engenharia de Software
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ Entrega 1 | 1.72/2 | https://github.com/DuarteCruz6/projetoCG/tree/main/Entrega1
+ Entrega 2 | 3.10/4 | https://github.com/DuarteCruz6/projetoCG/tree/main/Entrega2
+ Entrega 3 | 1.40/4 | https://github.com/DuarteCruz6/projetoCG/tree/main/Entrega3
 
 #### PIC - Projecto Integrador de 1º Ciclo em Engenharia Informática e de Computadores

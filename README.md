@@ -147,6 +147,11 @@ Projeto | Nota | Link
  Final | 18.6 | https://github.com/DuarteCruz6/projectESof
 
 #### Compiladores
+Projeto | Nota | Link
+ :---: | :---: | :---:
+ Entrega 1 | 19.25/20 | https://github.com/DuarteCruz6/projetoCompiladores/tree/master
+ Entrega 2 | 19.91/20 | https://github.com/DuarteCruz6/projetoCompiladores/tree/master
+ Entrega 3 | 18.70/20 | https://github.com/DuarteCruz6/projetoCompiladores/tree/master
 
 #### CG - Computação Gráfica
 Projeto | Nota | Link
